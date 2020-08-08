@@ -1,0 +1,43 @@
+/*Styling for Whole Page*/
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+/*Styling for Card Content*/
+li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.answer{
+    list-style-type: none;
+}
+#name{
+    max-width: 450px;
+}
+
+#nameField{
+    display: none;
+}
+
+#start{
+    margin-right: 2.5px;
+}
+
+#view{
+    margin-left: 2.5px;
+}
+
+/*Styling for Card Header*/
+h6{
+    margin-top: 0px;
+    
+}
+
+h3{
+    margin-bottom: 0px;
+    
+}
